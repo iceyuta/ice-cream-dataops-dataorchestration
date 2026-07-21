@@ -1,0 +1,2 @@
+externalId: wf_icapi_data_pipeline
+description: Ice Cream API のデータパイプライン（アセット階層構築→コンテキスト化→抽出→OEE算出）

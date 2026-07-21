@@ -1,1 +1,2 @@
-# ice-cream-dataops-dataorchestration
+# ice-cream-dataops
+Cognite Data Fusion Bootcamp
